@@ -40,7 +40,7 @@ The main goal of this project is to:
 - 3. Delivery Timelines
 - 4. Product Details
 - 5. Vendor Information
-- 6. Delivery Cost & INCO Terms
+- 6. Delivery Cost & INCO Terms,etc
 
 ---
  
