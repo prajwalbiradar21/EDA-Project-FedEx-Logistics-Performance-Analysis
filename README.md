@@ -1,5 +1,5 @@
 # EDA-Project-FedEx-Logistics-Performance-Analysis
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/6ad861fc-1cc9-4edd-a305-335340d4d57f" />
+<img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/6ad861fc-1cc9-4edd-a305-335340d4d57f" />
 
 
 
