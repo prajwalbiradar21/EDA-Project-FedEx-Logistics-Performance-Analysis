@@ -29,6 +29,31 @@ The main goal of this project is to:
 
 ---
 
+##  Dataset Overview
+
+- Rows & Columns: 10,324 rows, 33 columns
+
+##  Key Columns:
+
+- 1. Country
+- 2. Shipment Mode
+- 3. Delivery Timelines
+- 4. Product Details
+- 5. Vendor Information
+- 6. Delivery Cost & INCO Terms
+
+---
+ 
+##  Data Preprocessing & Feature Engineering
+
+*  Converted date columns to datetime format for accurate analysis.
+*  Removed PO Sent to Vendor Date due to excessive missing data.
+*  Filled missing values in Dosage using mode.
+*  Detected outliers using IQR method.
+*  Created Delivery Time = Delivered to Client Date − Scheduled Delivery Date to analyze on-time vs delayed deliveries.
+
+---
+
 ##  Key Visualizations
 1.  **Shipment Mode Distribution** – Identified the most used and cost-effective shipment methods.  
 2.  **Delivery Delays by Country** – Highlighted regions with frequent delivery delays.  
